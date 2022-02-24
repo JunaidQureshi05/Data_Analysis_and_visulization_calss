@@ -1,0 +1,10 @@
+Shortcuts for jupyter notebook :-
+
+1) ctrl + enter     // Run the current cell and stay there 
+2) shift + enter    // Run the current cell and go to the next cell
+3) esc + a                 // Make a cell above the current cell
+4) esc + b                // Make a cell below the current cell
+5) esc + m                // Change Current Cell to markdown mode
+6) esc + d d             // Delete current cell
+7) esc + y                // Change current cell to code mode
+8) shift+ tab                // To read about somthing (like library)
